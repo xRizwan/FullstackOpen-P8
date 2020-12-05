@@ -1,0 +1,54 @@
+{
+  "notes": [
+    {
+      "content": "custom-hookit aivan mahtavia",
+      "id": 1
+    },
+    {
+      "content": "paras feature ikinä <3",
+      "id": 2
+    },
+    {
+      "content": "this is a note",
+      "id": 3
+    },
+    {
+      "content": "this is a note 2",
+      "id": 4
+    },
+    {
+      "content": "this is a note 3",
+      "id": 5
+    },
+    {
+      "content": "this is a note 4",
+      "id": 6
+    },
+    {
+      "content": "asdasd",
+      "id": 7
+    }
+  ],
+  "persons": [
+    {
+      "name": "mluukkai",
+      "number": "040-5483923",
+      "id": 1
+    },
+    {
+      "name": "Person",
+      "number": "Supermman",
+      "id": 2
+    },
+    {
+      "name": "asd",
+      "number": "qweasdf",
+      "id": 3
+    },
+    {
+      "name": "asd",
+      "number": "qweasdf",
+      "id": 4
+    }
+  ]
+}
